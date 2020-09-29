@@ -1,2 +1,2 @@
 # MemeAndJokes
-![demo](test.gif)
+![demo](/demo/test.gif)
