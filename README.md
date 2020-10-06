@@ -24,7 +24,7 @@ Project is created with:
 ## Setup
 To run this project, open it with Live Server in VS code.
 
-![demo](/ToDoApp/demo/todoapp.gif)
+![demo](/MemeAndJokes/demo/memesjokes.gif)
 
 ## Status
 Project is:  _finished
